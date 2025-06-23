@@ -46,6 +46,8 @@ Este proyecto implementa un sistema para **entrenar un modelo YOLOv8 personaliza
    - Etiquetas con confianza
    - Conteo total de árboles detectados
   
+![Detección en acción](media/deteccion.gif)
+
 ---
 ## ⚠️ Consideraciones si se quiere usar el proyecto localmente
 - La instalación de bibliotecas no es automática como en Colab. Debes instalar manualmente.
