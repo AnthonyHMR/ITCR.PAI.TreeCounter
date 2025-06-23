@@ -59,4 +59,4 @@ Algunos notebooks usan %matplotlib inline, que solo funciona en entornos tipo no
 
 ## Créditos
 Este proyecto fue desarrollado como parte del curso Proyecto de Aplicación de la Ingeniería en Computadores del Tecnológico de Costa Rica.
-Combina herramientas de visión por computadora e inteligencia artificial para abordar un problema ambiental de alto valor: la **Identificación y Conteo de Árboles a partir de Fotografías Satelitales para Estimación de Biomasa**
+Combina herramientas de visión por computadora e inteligencia artificial para abordar un problema ambiental de alto valor: la **Identificación y Conteo de Árboles a partir de Fotografías Satelitales**
